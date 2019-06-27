@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/salaleser/poster/logger"
+	"github.com/salaleser/vk-poster/logger"
 
 	"github.com/salaleser/vk-api/entity"
 )
