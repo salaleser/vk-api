@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/url"
 
-	"salaleser.ru/vk-api/entity"
-	"salaleser.ru/vk-api/method"
-	"salaleser.ru/vk-api/util"
+	"github.com/salaleser/vk-api/entity"
+	"github.com/salaleser/vk-api/method"
+	"github.com/salaleser/vk-api/util"
 )
 
 // SaveMarketPhoto Сохраняет фотографии после успешной загрузки на URI, полученный

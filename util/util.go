@@ -14,9 +14,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"salaleser.ru/poster/logger"
+	"github.com/salaleser/poster/logger"
 
-	"salaleser.ru/vk-api/entity"
+	"github.com/salaleser/vk-api/entity"
 )
 
 const (

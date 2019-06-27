@@ -8,8 +8,8 @@ import (
 	"net/http/cookiejar"
 	"net/url"
 
+	"github.com/salaleser/vk-api/util"
 	"golang.org/x/net/html"
-	"salaleser.ru/vk-api/util"
 )
 
 const (
